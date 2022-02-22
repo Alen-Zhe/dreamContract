@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to the address type",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"dream_bard_bimbos_flat.sol": "Address"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"dream_bard_bimbos_flat.sol": {
+			"keccak256": "0x85f58d136d05257eaa5baeaebf43d93792ef74c6868fc83efe64fd1d0860ec89",
+			"urls": [
+				"bzz-raw://e940096c0dad665ee33549cb489109cdcc01a133fd35171a5bbdef0c03230035",
+				"dweb:/ipfs/QmPFbhdh9gAdia11xFRtqq1QTyjBWmSqGdrrp7M6WgDRpf"
+			]
+		}
+	},
+	"version": 1
+}
